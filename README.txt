@@ -171,6 +171,7 @@ IGCC is Free Software released under the terms of the GNU General Public License
 
 IGCC comes with NO WARRANTY.
 
-See the included file COPYING for more information.
+
+See the locally included file COPYING for more information.
 
 
